@@ -1,0 +1,4 @@
+model,maker,price,price_difference_max_pc,price_difference_avg_laptop
+107,Samsung,1999.99,600.00,640.000000
+101,Sony,1699.99,300.00,340.000000
+104,LG,1599.99,200.00,240.000000
